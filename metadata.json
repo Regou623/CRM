@@ -1,0 +1,5 @@
+{
+  "name": "Customer Relationship Manager",
+  "description": "A CRM system to record customer information and visit journeys, with user authentication powered by Supabase.",
+  "requestFramePermissions": []
+}
